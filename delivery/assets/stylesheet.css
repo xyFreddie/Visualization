@@ -1,0 +1,142 @@
+.tabs_container {
+	height: 50px;
+	padding-bottom: 10px;
+}
+
+.tab {
+	font-family: "Open Sans", verdana, arial, sans-serif;
+}
+
+.textbox {
+	/*Same fonts that Dash/plotly uses, for consistency*/
+	font-family: "Open Sans", verdana, arial, sans-serif;
+	text-align: center;
+}
+
+body {
+	background-color: #C1C1C1;
+}
+
+#left_side_div {
+	float: left;
+	width: 46vw;
+	height: 90vh;
+	margin-top: -20px;
+	margin-left: 35px;
+}
+
+.cytoscape_map {
+	border: 3px solid #8E8E8E;
+	background-color: #464646;
+}
+
+#map_bottom_spacing {
+	height: 5px;
+}
+
+#sensor_legend {
+	float: left;
+
+}
+
+#legend_div {
+	float: left;
+	margin-left: 10px;
+}
+
+#color_bar {
+	width: 300px;
+	border: 1px solid black;
+}
+
+#legend_max_val {
+	margin-top: -18px;
+	margin-left: 275px;
+}
+
+#sensor_list_div {
+	margin-top: 75px;
+	margin-left: 215px;
+	font-size: 12pt;
+}
+
+.general_graph {
+	height: 44%;
+}
+
+.menu {
+	font-family: "Open Sans", verdana, arial, sans-serif;
+	font-size: 14px;
+}
+
+
+#right_side_div {
+	float: right;
+	width: 46vw;
+	height: 90vh;
+	margin-right: 35px;
+}
+
+#right_top_space_div {
+	margin-top: 25px;
+}
+
+#anomaly_left_div {
+	float: left;
+	height: 90vh;
+	width:  40vw;
+	margin-top: -20px;
+	margin-left: 35px;
+}
+
+#anomaly_legends {
+	float: left;
+	margin-left: 20px;
+	width: 205px;
+}
+
+.legend_left_float {
+	float: left;
+}
+
+#radar_graph_1 {
+	float: left;
+	margin-top: 10px;
+	width: 48%;
+}
+
+#radar_graph_2 {
+	float: right;
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 48%;
+}
+
+#anomaly_right_div {
+	float: right;
+	width: 55vw;
+	margin-right: 35px;
+	margin-bottom: 20px;
+}
+
+#anomaly_map_title {
+	/*Same fonts that Dash/plotly uses, for consistency*/
+	margin-top: 13px;
+	margin-bottom: 11px;
+}
+
+#car_selector {
+	width: 75%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#anomaly_color {
+	width: 204px;
+	border: 1px solid black;
+}
+
+#legend_max_val_2 {
+	margin-left: 195px;
+	margin-top: -18px;
+}

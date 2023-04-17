@@ -1,0 +1,7 @@
+seaborn
+pandas
+numpy
+dash
+dash_cytoscape
+sklearn
+plotly
